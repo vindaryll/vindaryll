@@ -87,17 +87,6 @@ specialty: Database design & data management
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/vindaryll/vindaryll/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <!-- CONNECT WITH ME -->
 ## 🤝 Connect With Me
 
