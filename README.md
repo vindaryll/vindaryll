@@ -4,7 +4,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Daryll%20Alocillo&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Building%20Solutions%20From%20Real-World%20Processes&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn)
 
   <!-- TYPING ANIMATION -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hello%2C+I'm+Daryll+%F0%9F%91%8B;4th+Year+BSIT+Student;PhilNITS+IP+Passer;Turning+Business+Processes+Into+Solutions;I+Love+Working+With+Data+%F0%9F%93%8A;Running+for+Cum+Laude+%F0%9F%8E%93)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Hello%2C+I'm+Daryll+%F0%9F%91%8B;4th+Year+BSIT+Student;PhilNITS+IP+Passer;Turning+Business+Processes+Into+Solutions;I+Love+Working+With+Data+%F0%9F%93%8A;Running+for+Cum+Laude+%F0%9F%8E%93)](https://git.io/typing-svg)
 
   <!-- PROFILE VIEW COUNTER -->
   ![Profile Views](https://komarev.com/ghpvc/?username=vindaryll&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
