@@ -70,18 +70,12 @@ specialty: Database design & data management
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Graph
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vindaryll&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindaryll&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=58a6ff&text_color=8b949e" height="180"/>
-
-  <br/><br/>
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vindaryll&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+  ![Snake animation](https://raw.githubusercontent.com/vindaryll/vindaryll/output/github-snake-dark.svg)
 
 </div>
 
